@@ -26,7 +26,7 @@ EDD 的核心洞察是：**纯粹的混乱没有价值，有结构的混乱才�
 
 ```bash
 # 克隆本仓库
-git clone https://github.com/yourname/entropy-driven-development.git
+git clone https://github.com/markgoo/entropy-driven-development.git
 
 # 安装 EDD 命令行工具
 npm install -g edd-cli
