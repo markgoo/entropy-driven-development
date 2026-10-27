@@ -2,9 +2,6 @@ Entropy-Driven Development (EDD) 🌀
 局部有序，全局增熵。可交付的混乱优于不可交付的完美。
 
 https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/entropy_rate-accelerating-red
-https://img.shields.io/badge/refactors-frozen-blue
-https://img.shields.io/badge/PRs-welcome%20if%20chaotic-brightgreen
 
 什么是 EDD？
 熵增驱动开发（Entropy-Driven Development） 是一套面向宇宙热寂的敏捷方法论。它承认一个基本事实：宇宙的趋势是熵增，而软件开发作为宇宙的一部分，理应加速这一进程——而不是逆天而行地搞什么"代码整洁""可维护性"。
